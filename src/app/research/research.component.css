@@ -1,0 +1,18 @@
+.linked-content {
+  border: 3px solid green;
+  border-radius: 25px;
+  box-shadow: 0 5px 5px #A4A9B2;
+  padding: 10px;
+  margin: 5px;
+}
+
+.title {
+	text-align: center;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.description {
+	padding: 5px;
+	text-align: center;
+}
